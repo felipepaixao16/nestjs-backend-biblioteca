@@ -29,6 +29,8 @@
 ## Instalação
 
 'Crie um database com o nome 'biblioteca'usando o postgresSQL'
+```
+## instale as depedndências do projeto com o comando abaixo
 
 ```bash
 $ npm install
